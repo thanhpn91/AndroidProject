@@ -1,0 +1,231 @@
+pages.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+level-screen/ship-model-gencore-phoenix
+  rotate: false
+  xy: 1, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 0
+level-screen/ship-model-gencore-phoenix
+  rotate: false
+  xy: 27, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 1
+level-screen/ship-model-gencore-phoenix
+  rotate: false
+  xy: 53, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 2
+level-screen/ship-model-gencore
+  rotate: false
+  xy: 79, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 0
+level-screen/ship-model-gencore
+  rotate: false
+  xy: 105, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 1
+level-screen/ship-model-gencore
+  rotate: false
+  xy: 131, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 2
+level-screen/ship-model-microsol-stalker
+  rotate: false
+  xy: 157, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 0
+level-screen/ship-model-microsol-stalker
+  rotate: false
+  xy: 183, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 1
+level-screen/ship-model-microsol-stalker
+  rotate: false
+  xy: 209, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 2
+level-screen/ship-model-super-carrot
+  rotate: false
+  xy: 235, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 0
+level-screen/ship-model-super-carrot
+  rotate: false
+  xy: 261, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 1
+level-screen/ship-model-super-carrot
+  rotate: false
+  xy: 287, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 2
+level-screen/ship-model-usp-talon
+  rotate: false
+  xy: 313, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 0
+level-screen/ship-model-usp-talon
+  rotate: false
+  xy: 339, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 1
+level-screen/ship-model-usp-talon
+  rotate: false
+  xy: 365, 1
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: 2
+
+pages2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+splash-screen/splash-image
+  rotate: false
+  xy: 1, 1
+  size: 512, 301
+  orig: 512, 301
+  offset: 0, 0
+  index: -1
+
+pages3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+start-game-screen/front-gun-missile-launcher
+  rotate: false
+  xy: 1, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/front-gun-proton-launcher
+  rotate: false
+  xy: 25, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/front-gun-pulse-cannon
+  rotate: false
+  xy: 49, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/front-gun-vulcan-cannon
+  rotate: false
+  xy: 73, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/front-gun-wave-cannon
+  rotate: false
+  xy: 97, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/shield-aif
+  rotate: false
+  xy: 121, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/shield-ghef
+  rotate: false
+  xy: 145, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/shield-gles
+  rotate: false
+  xy: 169, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/shield-mlxs
+  rotate: false
+  xy: 193, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/shield-sif
+  rotate: false
+  xy: 217, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/ship-model-gencore-ii
+  rotate: false
+  xy: 241, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/ship-model-gencore-phoenix
+  rotate: false
+  xy: 265, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/ship-model-microsol-stalker
+  rotate: false
+  xy: 289, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/ship-model-super-carrot
+  rotate: false
+  xy: 313, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+start-game-screen/ship-model-usp-talon
+  rotate: false
+  xy: 337, 1
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
